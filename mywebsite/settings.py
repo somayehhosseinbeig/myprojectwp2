@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'hello', #'hello.apps.HelloConfig'
     'newyear.apps.NewyearConfig',# newyear
     'tasks',#tasks.apps.TasksConfig
+    'flights',
 ]
 
 MIDDLEWARE = [
